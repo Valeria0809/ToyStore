@@ -1,0 +1,9 @@
+
+ID призовой игрушки: 2, Имя: Playstation 5
+ID призовой игрушки: 1, Имя: Xbox
+ID призовой игрушки: 3, Имя: Nintendo Switch
+ID призовой игрушки: 1, Имя: Xbox
+ID призовой игрушки: 2, Имя: Playstation 5
+ID призовой игрушки: 2, Имя: Playstation 5
+ID призовой игрушки: 3, Имя: Nintendo Switch
+ID призовой игрушки: 3, Имя: Nintendo Switch
